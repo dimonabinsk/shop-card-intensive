@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="613e8a77-d5ba-4a26-b7f7-0394392d0407" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/ResultShcool_VM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/array/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/array/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/debugger/task_1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/debugger/task_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/debugger/task_2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/debugger/task_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/debugger/task_3/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/debugger/task_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../course/Module_1. JavaScript Database/debugger/task_4/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS_5x5_cources_marathon/Lesson_5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../JS_5x5_cources_marathon/Lesson_5/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../course/webStorm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../course/webStorm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../course/webStorm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../course/webStorm/.idea/webStorm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../course/webStorm/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D4t3348okNGehhp7BYCno7cOk3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ResultShcool_VM/Course/Module_1. JavaScript Database/asynchrony&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="613e8a77-d5ba-4a26-b7f7-0394392d0407" name="Changes" comment="" />
+      <created>1659969985621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659969985621</updated>
+      <workItem from="1659969987336" duration="755000" />
+      <workItem from="1659989204590" duration="5331000" />
+      <workItem from="1660028079046" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
